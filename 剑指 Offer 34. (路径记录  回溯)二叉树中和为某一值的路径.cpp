@@ -10,7 +10,11 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
+/*
+二叉树的搜索问题
+分为两步！！！
+1. 先序遍历
+2. 路径记录  回溯*/
 
 
 class Solution {
